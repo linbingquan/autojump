@@ -15,6 +15,7 @@
     "content_scripts": [
         {
             "matches": [
+                "*://www.oschina.net/action/GoToLink?url=*",
                 "*://link.zhihu.com/?target=*",
                 "*://link.juejin.cn/?target=*",
                 "*://link.csdn.net/?target=*",
