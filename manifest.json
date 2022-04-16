@@ -1,0 +1,28 @@
+{
+    "name": "autojump",
+    "version": "0.1.0",
+    "description": "autojump",
+    "manifest_version": 3,
+    "author": "linbingquan",
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "autojump"
+    },
+    "icons": {
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://link.zhihu.com/?target=*",
+                "*://link.juejin.cn/?target=*",
+                "*://link.csdn.net/?target=*",
+                "*://www.jianshu.com/go-wild?ac=2&url=*"
+            ],
+            "js": [
+                "content_script.js"
+            ]
+        }
+    ]
+}

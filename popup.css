@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.logo {
+    overflow: hidden;
+    padding: 4px;
+    width: 248px;
+    height: 60px;
+}
