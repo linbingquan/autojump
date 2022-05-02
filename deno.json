@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "clear": "rm -rf dist && cp -r public/ dist",
+    "bundle": "deno bundle src/mod.ts dist/content_script.js",
+    "build": "deno task clear && deno task bundle",
+    "test": "deno test --location=http://location test/mod.ts"
+  }
+}
