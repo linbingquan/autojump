@@ -1,14 +1,14 @@
 [![autojump](icon.svg "autojump")](https://github.com/linbingquan/autojump)
 
-In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party links without feeling, which can save a lot of time.
+在开源中国、知乎、掘金、简书和CSDN网站中无感知地自动跳转到第三方链接，这样可以节省很多时间。
 
-## Installing
+## 安装
 
 [Edge Addons](https://microsoftedge.microsoft.com/addons/detail/autojump/kbhcphjkaedjlbkhaikmjidejkppmkih)
 
-## Test
+## 测试
 
-Use this plugin to automatically redirect to third-party links. The following five links for test redirect to `https://bing.com`.
+使用这个插件自动跳转到第三方链接。以下五个用于测试的链接自动跳转到 `https://bing.com`。
 
 ```
 https://www.oschina.net/action/GoToLink?url=https://bing.com
