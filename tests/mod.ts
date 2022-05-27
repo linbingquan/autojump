@@ -16,3 +16,11 @@ Deno.test("test target", () => {
   );
   assertEquals("https://bing.com", r);
 });
+
+Deno.test("test array", () => {
+  const r = get_jump_url([
+    "url",
+    "target",
+  ], "https://link.zhihu.com/?target=https://bing.com");
+  assertEquals("https://bing.com", r);
+});
