@@ -1,9 +1,10 @@
 {
-    "name": "autojump",
+    "name": "__MSG_extName__",
     "version": "0.1.0",
-    "description": "In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party website links without feeling. which can save a lot of time.",
+    "description": "__MSG_extDescription__",
     "manifest_version": 3,
     "author": "linbingquan",
+    "default_locale": "en",
     "action": {
         "default_popup": "popup.html",
         "default_title": "autojump"
