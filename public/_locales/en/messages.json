@@ -1,10 +1,10 @@
 {
-    "extName": {
-        "message": "autojump",
-        "description": "name"
-    },
-    "extDescription": {
-        "message": "In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party links without feeling, which can save a lot of time.",
-        "description": "description"
-    }
+  "extName": {
+    "message": "autojump",
+    "description": "name"
+  },
+  "extDescription": {
+    "message": "In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party links without feeling, which can save a lot of time.",
+    "description": "description"
+  }
 }

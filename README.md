@@ -1,6 +1,7 @@
 [![autojump](icon.svg "autojump")](https://github.com/linbingquan/autojump)
 
-In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party links without feeling, which can save a lot of time.
+In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party
+links without feeling, which can save a lot of time.
 
 ## Installing
 
@@ -8,7 +9,8 @@ In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party li
 
 ## Test
 
-Use this plugin to automatically redirect to third-party links. The following five links for test redirect to `https://bing.com`.
+Use this plugin to automatically redirect to third-party links. The following
+five links for test redirect to `https://bing.com`.
 
 ```
 https://www.oschina.net/action/GoToLink?url=https://bing.com

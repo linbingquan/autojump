@@ -1,30 +1,30 @@
 {
-    "name": "__MSG_extName__",
-    "version": "0.1.1",
-    "description": "__MSG_extDescription__",
-    "manifest_version": 3,
-    "author": "linbingquan",
-    "default_locale": "en",
-    "action": {
-        "default_popup": "popup.html",
-        "default_title": "autojump"
-    },
-    "icons": {
-        "48": "icon.png",
-        "128": "icon.png"
-    },
-    "content_scripts": [
-        {
-            "matches": [
-                "*://www.oschina.net/action/GoToLink?url=*",
-                "*://link.zhihu.com/?target=*",
-                "*://link.juejin.cn/?target=*",
-                "*://link.csdn.net/?target=*",
-                "*://www.jianshu.com/go-wild?ac=2&url=*"
-            ],
-            "js": [
-                "content_script.js"
-            ]
-        }
-    ]
+  "name": "__MSG_extName__",
+  "version": "0.1.1",
+  "description": "__MSG_extDescription__",
+  "manifest_version": 3,
+  "author": "linbingquan",
+  "default_locale": "en",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "autojump"
+  },
+  "icons": {
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.oschina.net/action/GoToLink?url=*",
+        "*://link.zhihu.com/?target=*",
+        "*://link.juejin.cn/?target=*",
+        "*://link.csdn.net/?target=*",
+        "*://www.jianshu.com/go-wild?ac=2&url=*"
+      ],
+      "js": [
+        "content_script.js"
+      ]
+    }
+  ]
 }
