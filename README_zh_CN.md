@@ -1,10 +1,12 @@
-[![autojump](icon.svg "autojump")](https://github.com/linbingquan/autojump)
+[![autojump](logo.svg "autojump")](https://github.com/linbingquan/autojump)
 
 在开源中国、知乎、掘金、简书和CSDN网站中无感知地自动跳转到第三方链接，这样可以节省很多时间。
 
 ## 安装
 
 [Edge Addons](https://microsoftedge.microsoft.com/addons/detail/autojump/kbhcphjkaedjlbkhaikmjidejkppmkih)
+
+[Firefox Addons](https://addons.mozilla.org/zh-CN/firefox/addon/autojump/)
 
 ## 测试
 

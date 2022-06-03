@@ -1,4 +1,4 @@
-[![autojump](icon.svg "autojump")](https://github.com/linbingquan/autojump)
+[![autojump](logo.svg "autojump")](https://github.com/linbingquan/autojump)
 
 In OSChina, Zhihu, Juejin, Jianshu and CSDN websites will jump to third-party
 links without feeling, which can save a lot of time.
@@ -6,6 +6,8 @@ links without feeling, which can save a lot of time.
 ## Installing
 
 [Edge Addons](https://microsoftedge.microsoft.com/addons/detail/autojump/kbhcphjkaedjlbkhaikmjidejkppmkih)
+
+[Firefox Addons](https://addons.mozilla.org/zh-CN/firefox/addon/autojump/)
 
 ## Test
 
