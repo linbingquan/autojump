@@ -1,6 +1,6 @@
 [![autojump](logo.svg "autojump")](https://github.com/linbingquan/autojump)
 
-在开源中国、知乎、掘金、简书和CSDN网站中无感知地自动跳转到第三方链接，这样可以节省很多时间。
+在开源中国、码云、知乎、掘金、简书和CSDN网站中无感知地自动跳转到第三方链接，这样可以节省很多时间。
 
 ## 安装
 
@@ -14,6 +14,7 @@
 
 ```
 https://www.oschina.net/action/GoToLink?url=https://bing.com
+https://gitee.com/link?target=https://bing.com
 https://link.zhihu.com/?target=https://bing.com
 https://link.juejin.cn/?target=https://bing.com
 https://link.csdn.net/?target=https://bing.com
