@@ -1,7 +1,12 @@
-[![autojump](logo.svg "autojump")](https://github.com/linbingquan/autojump)
+# Autojump
+
+<img align="right" src="./logo.svg" height="150px" alt="autojump" />
 
 In OSChina, Gitee, Zhihu, Juejin, Jianshu and CSDN websites will jump to
 third-party links without feeling, which can save a lot of time.
+
+Need adapter website's third-party links, please feedback in
+https://github.com/linbingquan/autojump
 
 ## Installing
 
@@ -12,7 +17,7 @@ third-party links without feeling, which can save a lot of time.
 ## Test
 
 Use this plugin to automatically redirect to third-party links. The following
-five links for test redirect to `https://bing.com`.
+six links for test redirect to `https://bing.com`.
 
 ```
 https://www.oschina.net/action/GoToLink?url=https://bing.com
