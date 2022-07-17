@@ -2,6 +2,8 @@
 
 <img align="right" src="./logo.svg" height="150px" alt="autojump" />
 
+English | [中文](./README.zh-CN.md)
+
 In OSChina, Gitee, Zhihu, Juejin, Jianshu and CSDN websites will jump to
 third-party links without feeling, which can save a lot of time.
 
