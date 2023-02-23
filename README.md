@@ -1,25 +1,23 @@
-# Autojump
+# 自动跳转
 
-<img align="right" src="./logo.svg" height="150px" alt="autojump" />
+<img align="right" src="./logo.svg" height="150px" alt="自动跳转" />
 
-English | [中文](./README.zh-CN.md)
+[English](./README.en.md) | 中文
 
-In OSChina, Gitee, Zhihu, Juejin, Jianshu and CSDN websites will jump to
-third-party links without feeling, which can save a lot of time.
+在开源中国、码云、知乎、掘金、简书和CSDN网站中无感知地自动跳转到第三方链接，这样可以节省很多时间。
 
-Need adapter website's third-party links, please feedback in
-https://github.com/linbingquan/autojump
+需要适配网站第三方跳转，请到 https://github.com/linbingquan/autojump 反馈
 
-## Installing
+## 安装
 
 [Edge Addons](https://microsoftedge.microsoft.com/addons/detail/autojump/kbhcphjkaedjlbkhaikmjidejkppmkih)
 
 [Firefox Addons](https://addons.mozilla.org/zh-CN/firefox/addon/autojump/)
 
-## Test
+## 测试
 
-Use this plugin to automatically redirect to third-party links. The following
-six links for test redirect to `https://bing.com`.
+使用这个插件自动跳转到第三方链接。以下六个用于测试的链接自动跳转到
+`https://bing.com`。
 
 ```
 https://www.oschina.net/action/GoToLink?url=https://bing.com
@@ -30,8 +28,8 @@ https://link.csdn.net/?target=https://bing.com
 https://www.jianshu.com/go-wild?ac=2&url=https://bing.com
 ```
 
-## Appreciation Code
+## 赞赏码
 
-If you think the software is helpful to you, you can scan the code on WeChat.
+如果觉得软件对你有帮助，可以微信扫码
 
-<img src="appreciation-code.jpg" width="350px" alt="Appreciation Code" />
+<img src="appreciation-code.jpg" width="350px" alt="赞赏码" />
