@@ -21,7 +21,8 @@
         "*://link.zhihu.com/?target=*",
         "*://link.juejin.cn/?target=*",
         "*://link.csdn.net/?target=*",
-        "*://www.jianshu.com/go-wild?ac=2&url=*"
+        "*://www.jianshu.com/go-wild?ac=2&url=*",
+        "*://sspai.com/link?target=*"
       ],
       "js": [
         "content_script.js"
