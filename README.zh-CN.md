@@ -16,7 +16,8 @@
 
 ## 测试
 
-使用这个插件自动跳转到第三方链接。以下六个用于测试的链接自动跳转到 `https://bing.com`。
+使用这个插件自动跳转到第三方链接。以下六个用于测试的链接自动跳转到
+`https://bing.com`。
 
 ```
 https://www.oschina.net/action/GoToLink?url=https://bing.com
@@ -26,3 +27,9 @@ https://link.juejin.cn/?target=https://bing.com
 https://link.csdn.net/?target=https://bing.com
 https://www.jianshu.com/go-wild?ac=2&url=https://bing.com
 ```
+
+## 赞赏码
+
+如果觉得软件对你有帮助，可以微信扫码
+
+<img src="appreciation-code.jpg" width="350px" alt="赞赏码" />

@@ -29,3 +29,9 @@ https://link.juejin.cn/?target=https://bing.com
 https://link.csdn.net/?target=https://bing.com
 https://www.jianshu.com/go-wild?ac=2&url=https://bing.com
 ```
+
+## Appreciation Code
+
+If you think the software is helpful to you, you can scan the code on WeChat.
+
+<img src="appreciation-code.jpg" width="350px" alt="Appreciation Code" />
